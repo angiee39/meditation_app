@@ -1,5 +1,5 @@
 # Flutter Meditation App
-A Meditation App demo using flutter and dart.
+A Meditation App UI made using flutter and dart.
 
 
 ### Screenshots
@@ -7,7 +7,3 @@ A Meditation App demo using flutter and dart.
 <img src="assets/pics/appShots.png"   />
 
 
-## Getting Started
-
-For help getting started with Flutter, view the online
-[documentation](https://flutter.dev/).
